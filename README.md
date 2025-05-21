@@ -25,6 +25,3 @@ SyncChat是一个基于Node.js和MySQL的实时同步聊天应用，支持创建
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-# SyncChat
